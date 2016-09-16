@@ -11,4 +11,4 @@ Along with three other group members, this project is a mock database created us
 * In MySQL Workbench, import the file "Lostnfound_script" to initialize and populate the database, (more can be added on your own!)
 * Type "localhost/homepage.php" into your browser, and enjoy!
 
-[Here](https://www.youtube.com/user/madhurbhatia89/playlists) is a Youtube Channel that has PHP, SQL, and HTML tutorials that helped me throughout this project. Hope this helps! 
+Here is a [Youtube Channel](https://www.youtube.com/user/madhurbhatia89/playlists) that has PHP, SQL, and HTML tutorials that helped me throughout this project. Hope this helps! 
